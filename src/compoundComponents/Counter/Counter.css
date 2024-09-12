@@ -1,0 +1,6 @@
+.counter-container {
+    width: 50%;
+    margin: 1em auto;
+    display: flex;
+    justify-content: space-between;
+}
